@@ -1,4 +1,4 @@
-# Project: Coffee Shop Prediction Using Machine Learning - Hugging Face
+# Project: Forest Fire Prediction
 
 ## Author
 Maya Fetzer  
