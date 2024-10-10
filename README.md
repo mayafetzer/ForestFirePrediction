@@ -13,7 +13,7 @@ Here is the public app for the forest fire prediction model: https://huggingface
 
 ## Files in this repository
 ForestFirePrediction.ipynb -  Google Colab code used to preprocess the dataset and create the machine learning model. 
-nn
+
 wildfire_prediction_multi_output_dataset_v2.xlsx - An example dataset used to train the machine learning model. 
 
 app.py - Python code used to create the Hugging Face app
