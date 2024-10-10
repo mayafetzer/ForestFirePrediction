@@ -12,14 +12,22 @@ This repository creates an app to model if a forest fire with occur.
 Here is the public app for the forest fire prediction model: https://huggingface.co/spaces/mayafetzer/ForestFires
 
 ## Files in this repository
-ForestFirePrediction.ipynb -  Google Colab code used to preprocess the dataset and create the machine learning model.
+ForestFirePrediction.ipynb -  Google Colab code used to preprocess the dataset and create the machine learning model. 
+nn
 wildfire_prediction_multi_output_dataset_v2.xlsx - An example dataset used to train the machine learning model. 
+
 app.py - Python code used to create the Hugging Face app
+
 best_model_fire_duration.pkl - A pickle file of the best model for the fire duration
+
 best_model_fire_occurrence.pkl - A pickle file of the best model for fire occurrence
+
 best_model_fire_size.pkl - A pickle file of the best model for fire size
-best_model_suppression_cost.pkl - A pickle file for the best model for supression cost 
-scaler.pkl - A pickle file to scale the input values for the machine learning model. 
+     
+best_model_suppression_cost.pkl - A pickle file for the best model for supression cost   
+ 
+scaler.pkl - A pickle file to scale the input values for the machine learning model.  
+       
 requirements.txt - The requirements to run the app in Hugging Face
 
 ## Prerequisites
