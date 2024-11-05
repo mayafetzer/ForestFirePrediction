@@ -11,6 +11,13 @@ This repository creates an app to model if a forest fire with occur.
 ## Public App
 Here is the public app for the forest fire prediction model: https://huggingface.co/spaces/mayafetzer/ForestFires
 
+## Ethics Analysis
+The links to the Deon's Ethics Checklist and Ethics DataCAD can be found below:
+
+https://huggingface.co/spaces/mayafetzer/WildfireDeonChecklist
+
+https://huggingface.co/spaces/mayafetzer/WildfireEthicsCAD
+
 ## Files in this repository
 ForestFirePrediction.ipynb -  Google Colab code used to preprocess the dataset and create the machine learning model. 
 
